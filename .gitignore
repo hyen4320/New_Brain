@@ -1,0 +1,14 @@
+# Obsidian 개인 UI 상태 (기기마다 다름)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
